@@ -11,19 +11,19 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
+url: http://sfbrigade.github.io/
 baseurl: /
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
+title: TrustOSS
+author: Trent Oswald (@therebelrobot) <trentoswald@therebelrobot.com>
+description: Building trust in Open Source Software and Initiatives for all stakeholders
 avatar: trustoss.png
-email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+email: trentoswald@therebelrobot.com
+github: sfbrigade/trustoss # username
+twitter: sfbrigade
+linkedin: 
+stackoverflow:   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: username
+disqus:
 google_analytics: UA-69391421-1
 
 
