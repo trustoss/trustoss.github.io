@@ -187,3 +187,8 @@ div.footer{
   padding-bottom: 15px;
   
 }*/
+
+table, tr, th, td {
+  text-align:left;
+}
+}
