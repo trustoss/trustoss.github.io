@@ -193,4 +193,8 @@ table, tr, th, td {
 tr {
   border-bottom:solid 1px #eee;
 }
+td {
+  padding:5px;	
+}
+}
 }
